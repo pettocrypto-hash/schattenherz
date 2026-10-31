@@ -1,6 +1,6 @@
 # Schattenherz
 
-Spielbare Testversion (Kapitel 1–3) eines interaktiven Mystery-Romance-Dramas für Erwachsene (18+).
+Spielbare Testversion der App für interaktive Geschichten für Erwachsene (18+). Erste Geschichte: »Leuchtturm« (Krimi & Mystery, Kapitel 1–3).
 
 **Spielen:** https://pettocrypto-hash.github.io/schattenherz/
 

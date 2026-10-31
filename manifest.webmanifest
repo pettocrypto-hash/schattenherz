@@ -1,7 +1,7 @@
 {
   "name": "Schattenherz",
   "short_name": "Schattenherz",
-  "description": "Interaktives Mystery-Romance-Drama für Erwachsene (18+)",
+  "description": "Interaktive Geschichten für Erwachsene (18+): Krimi, Mystery und Romantik",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
